@@ -19,6 +19,20 @@ public class Estudiante1 {
         this.nombres = nombres;
         this.correo = correo;
     }
+
+    public int getIdEstudiante() {
+        return idEstudiante;
+    }
+
+    public String getNombres() {
+        return nombres;
+    }
+
+    public String getCorreo() {
+        return correo;
+    }
+    
+    
    
    
    
